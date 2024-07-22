@@ -1,5 +1,5 @@
 This is a modified huffman algorithm implemented in java programming language.
-It has following features:
+It has following features:<br/>
     1:Read the data from file original.txt. <br/>
     2:Calculate the size of the file original.txt in bits.<br/>
   	3:Tells How many unique characters are there in file original.txt.<br/>
