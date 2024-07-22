@@ -1,6 +1,6 @@
 This is a modified huffman algorithm implemented in java programming language.
 It has following features:
-    1:Read the data from file original.txt.
+    1:Read the data from file original.txt.\n
     2:Calculate the size of the file original.txt in bits
   	3:Tells How many unique characters are there in file original.txt.
     4:Print the Frequency table(characters and their frequencies) for the file original.
